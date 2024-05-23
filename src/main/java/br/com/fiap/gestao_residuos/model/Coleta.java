@@ -8,8 +8,6 @@ import lombok.NoArgsConstructor;
 
 @Entity
 @Table(name = "tbl_coleta")
-@NoArgsConstructor
-@AllArgsConstructor
 @EqualsAndHashCode
 public class Coleta {
 
